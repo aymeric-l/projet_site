@@ -1,0 +1,19 @@
+<h1 class=""> Échelle </h1>
+
+
+<p>Pour vous donner une idée de ce que signifie chaque cote en terme d’appréciation, voici plus bas une expression que l’on peut associer à chacune d’entre elles. À compter de 7/10, une bière est donc considérée comme bonne, agréable à boire et mérite votre attention. Un 7/10 est donc une note positive. Et un 6/10 est la note de passage, comme à l’école.</p>
+
+<p>Le «.5» est aussi utilisé pour ces cas où la bière est vraiment entre deux échelons. Par exemple, une bière à 8.5/10 est vraiment meilleure que ses rivales auxquelles on décerne un 8/10, mais elle n’est pas non plus clairement méritoire d’un 9/10. Il faut le voir comme un 8+, comme un B+ à l’école.</p>
+
+<b>Cliquez sur une cote afin de voir la liste des bières ayant reçu ce résultat!</b>
+
+<img src="image_p_10">
+<img src="image_p_9">
+<img src="image_p_8">
+<img src="image_p_7">
+<img src="image_p_6">
+<img src="image_p_5">
+<img src="image_p_4">
+<img src="image_p_3">
+<img src="image_p_2">
+<img src="image_p_1">
