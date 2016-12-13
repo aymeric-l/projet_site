@@ -1,5 +1,5 @@
 
->e#####là où on clique#######adresse du lien
+#####là où on clique#######adresse du lien
 Notre critique, Philippe Dion, fait également des chroniques à la radio. Après sa série à CIBL (######L'émission Chapeau!####http://cibl1015.com/chapeau##### animée par Alexandre Coupal), il poursuit maintenant le travail sur les ondes de la radio de Radio-Canada à l'émission ####Bien dans son assiette#####http://ici.radio-canada.ca/emissions/bien_dans_son_assiette/2013-2014/index.asp.
 Radio-Canada: Bien dans son assiette
 
