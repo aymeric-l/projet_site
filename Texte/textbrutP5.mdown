@@ -7,13 +7,13 @@
 
 <b>Cliquez sur une cote afin de voir la liste des bières ayant reçu ce résultat!</b>
 
-<img src="image_p_10">
-<img src="image_p_9">
-<img src="image_p_8">
-<img src="image_p_7">
-<img src="image_p_6">
-<img src="image_p_5">
-<img src="image_p_4">
-<img src="image_p_3">
-<img src="image_p_2">
-<img src="image_p_1">
+<img src="image_p_10"> Parfaite  
+<img src="image_p_9">  Excellente  
+<img src="image_p_8">  Très bonne
+<img src="image_p_7">  Bonne 
+<img src="image_p_6">  Passable 
+<img src="image_p_5">  Sans intérêt
+<img src="image_p_4">  Ratée
+<img src="image_p_3">  Désagréable
+<img src="image_p_2">  Mauvaise
+<img src="image_p_1">  Insultante
